@@ -1,0 +1,6 @@
+[10-Jun-2016 20:59:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_header() in /home/jetreloc/public_html/wp-content/themes/display/index.php on line 1
+[08-Jul-2016 03:27:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function locate_template() in /home/jetreloc/public_html/wp-content/themes/display/functions.php on line 7
+[26-Jul-2016 00:07:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_header() in /home/jetreloc/public_html/wp-content/themes/display/index.php on line 1
+[05-Aug-2016 23:39:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function locate_template() in /home/jetreloc/public_html/wp-content/themes/display/functions.php on line 7
+[06-Aug-2016 10:31:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function locate_template() in /home/jetreloc/public_html/wp-content/themes/display/functions.php on line 7
+[11-Aug-2016 13:12:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function locate_template() in /home/jetreloc/public_html/wp-content/themes/display/functions.php on line 7

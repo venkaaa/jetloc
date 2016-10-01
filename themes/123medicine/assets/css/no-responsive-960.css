@@ -1,0 +1,13 @@
+/* bootstrap
+-------------------------------------------------- */
+body{
+	min-width: 940px;
+}
+#body-wrap,
+#footer{
+	width: 1000px;
+}	
+.container {
+  max-width: none !important;
+  width: 940px;
+}

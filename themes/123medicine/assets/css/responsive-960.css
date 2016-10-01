@@ -1,0 +1,9 @@
+@media (min-width: 1200px) {
+	#body-wrap,
+	#footer{
+		width: 1000px;
+	}	
+	.container {
+	  width: 940px;
+	}
+}

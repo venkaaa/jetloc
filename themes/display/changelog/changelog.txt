@@ -1,0 +1,57 @@
+
+Version 1.10 - Update: 29.03.2014
+================================================
+Fix: Portfolio filter fix
+
+Version 1.09 - Update: 26.03.2014
+================================================
+Fix: Theme update fix
+
+Version 1.08 - Update: 25.03.2014
+================================================
+Added: More option for the Contact page template.
+Added: Added view_all_text attribute to the [displaywp_team] shortcode
+Fixed: Mobile version for the built-in main slider
+
+Version 1.07 - Update: 25.02.2014
+================================================
+Fixed: Pagination fixed for custom page templates
+Fixed: Height of slider when the images are still loading
+
+Version 1.06 - Update: 20.02.2014
+================================================
+Added: Page templates now also output the content from the Editor at the end of the page
+Fixed: Fixed mobile menu position
+
+Version 1.05 - Update: 11.02.2014
+================================================
+Added: Option to disable specific sections from a page template
+
+Version 1.04 - Update: 10.02.2014
+================================================
+Added: Order of display for portfolio categories
+Added: Option to disable selection of multiple filters for portfolio
+
+Version 1.03 - Update: 27.01.2014
+================================================
+Fixed: Fixed some default values for shortcodes
+Fixed: Contact form on the Home template page
+
+Version 1.03 - Update: 27.01.2014
+================================================
+Fixed: Fixed some default values for shortcodes
+Fixed: Contact form on the Home template page
+
+Version 1.02 - Update: 21.01.2014
+================================================
+Fixed: Fixed error on "Home" template when Revolution Slider is not installed
+Updated: Added options to change additional colors used by the theme
+
+Version 1.01 - Update: 17.01.2014
+================================================
+Added: Revolution slider
+Fixed: Mobile view fixes
+
+Version 1.00 - Initial Release: 10.01.2014
+================================================
+-

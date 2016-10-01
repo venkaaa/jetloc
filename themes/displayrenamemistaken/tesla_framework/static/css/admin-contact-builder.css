@@ -1,0 +1,129 @@
+/*=========================== Tesla Contact Builder CSS ==========================*/
+header{
+	padding-top: 10px;
+}
+
+header h1{
+	text-align: center;
+	color: #444;
+}
+
+.main-container {
+	margin-top: 100px;
+	background: #eeeeee;
+}
+
+#contact_builder_wrapper{
+	padding: 30px;
+	background-color: #ccc;
+}
+
+#contact_builder_wrapper section{
+	
+}
+
+.builder {
+	background: #555;
+}
+
+.builder-body{
+	border: 3px solid #888;
+	padding: 48px;
+	margin: 48px;
+	position: relative;
+}
+.builder-body .form-row {
+	border: 2px dashed magenta;
+	margin-bottom: 24px;
+	padding: 7px;
+	position: relative;
+	min-height: 100px;
+}
+
+.builder-body div[class*='span'] {
+	background: #ccc;
+	padding: 5px;
+}
+
+.builder-body .form-row .column {
+	
+}
+.builder-body .form-row .column > ul {
+	min-height: 66px;
+	margin: 0;
+	padding: 10px;
+	border: 2px dashed aliceblue;
+}
+
+.builder-body .form-row ul.column-picker{
+	position: absolute;
+	display: none;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin:auto;
+	width: 240px;
+	height: 48px;
+}
+
+.builder-body .form-row .column-picker li{
+	float:left;
+	width: 48px;
+	height: 48px;
+	background: #999;
+	text-align: center;
+	line-height: 48px;
+}
+
+.row-edit, .row-delete , .form-delete{
+	position: absolute;
+	background: #000;
+	width: 24px;
+	height: 24px;
+	display: block;
+	right: 0;
+	text-align: center;
+	line-height: 24px;
+	color: #fff;
+	font-size: 24px;
+}
+
+.row-edit {
+	top: 0;
+}
+
+.row-delete {
+	bottom: 0;
+}
+
+.config{
+	display: none;
+	width: 15px;
+	height: 100%;
+	background: #ccc;
+	float: right;
+	cursor: pointer;
+}
+
+.form-template .form-element .config{
+	display: inline;
+}
+
+ul.form-elements{
+	
+}
+
+ul.affix{
+	width: 27.5%;
+}
+
+li.form-element {
+	background: cyan;
+	padding: 12px;
+	margin: 12px;
+}
+
+.btn {
+	border-radius: 0;
+}

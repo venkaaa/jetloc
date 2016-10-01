@@ -1,0 +1,1238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Display v1.07\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-13 11:48:43+0000\n"
+"Last-Translator: admin <a@b.cd>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:8
+#@ displaywp
+msgctxt "404 page"
+msgid "OOPS !"
+msgstr ""
+
+#: 404.php:9
+#@ displaywp
+msgctxt "404 page"
+msgid "ERROR <span>404</span>"
+msgstr ""
+
+#: 404.php:10
+#@ displaywp
+msgctxt "404 page"
+msgid "The page you were looking for could not be found"
+msgstr ""
+
+#: comments.php:14
+#@ default
+msgctxt "comments"
+msgid "Name"
+msgstr ""
+
+#: comments.php:15
+#@ default
+msgctxt "comments"
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:16
+#@ default
+msgctxt "comments"
+msgid "Website"
+msgstr ""
+
+#: comments.php:18
+#@ default
+msgctxt "comments"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:19
+#@ displaywp
+msgctxt "comments header"
+msgid "leave a <span>reply</span>"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+#@ displaywp
+msgctxt "comments header"
+msgid "leave a <span>reply</span> to %s"
+msgstr ""
+
+#: comments.php:24
+#@ displaywp
+msgctxt "comments submit"
+msgid "leave a reply"
+msgstr ""
+
+#: comments.php:32
+#@ displaywp
+msgctxt "comments"
+msgid "comments "
+msgstr ""
+
+#: comments.php:40
+#@ displaywp
+msgctxt "comments"
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41
+#@ displaywp
+msgctxt "comments"
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:42
+#@ displaywp
+msgctxt "comments"
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47
+#@ displaywp
+msgctxt "comments"
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:462
+#, php-format
+#@ tesla
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:472
+#@ displaywp
+msgctxt "post or page without title"
+msgid "Untitled"
+msgstr ""
+
+#: functions.php:528
+#: functions.php:540
+#@ displaywp
+msgctxt "comments"
+msgid "Edit"
+msgstr ""
+
+#: functions.php:528
+#@ displaywp
+msgctxt "comments"
+msgid "Pingback: "
+msgstr ""
+
+#: functions.php:540
+#@ displaywp
+msgctxt "comments"
+msgid "Reply"
+msgstr ""
+
+#: functions.php:542
+#@ displaywp
+msgctxt "comments"
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1772
+#@ displaywp
+msgctxt "contact form"
+msgid " message from "
+msgstr ""
+
+#: functions.php:1782
+#@ displaywp
+msgctxt "contact form"
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: functions.php:1784
+#@ displaywp
+msgctxt "contact form"
+msgid "Operation could not be completed."
+msgstr ""
+
+#: functions.php:1786
+#@ displaywp
+msgctxt "contact form"
+msgid "You have provided an invalid e-mail address."
+msgstr ""
+
+#: functions.php:1790
+#@ displaywp
+msgctxt "contact form"
+msgid "Please fill in all the required fields."
+msgstr ""
+
+#: functions.php:1793
+#@ displaywp
+msgctxt "contact form"
+msgid "Error! There is no e-mail configured to receive the messages."
+msgstr ""
+
+#: functions.php:1922
+#, php-format
+#@ default
+msgid "#%d (no title)"
+msgstr ""
+
+#: functions.php:1961
+#@ displaywp
+msgctxt "[displaywp_posts_latest] shortcode"
+msgid "recent <span>posts</span>"
+msgstr ""
+
+#: functions.php:2014
+#@ displaywp
+msgctxt "[displaywp_posts_tabs] shortcode"
+msgid "Tabs"
+msgstr ""
+
+#: functions.php:2069
+#: widgets/widget-recent-posts.php:57
+#: widgets/widget-tabs.php:77
+#@ displaywp
+msgid "No posts."
+msgstr ""
+
+#: functions.php:2174
+#: index.php:66
+#: page.php:36
+#: single.php:35
+#@ displaywp
+msgctxt "pagination"
+msgid "&rarr;"
+msgstr ""
+
+#: functions.php:2175
+#: index.php:67
+#: page.php:37
+#: single.php:36
+#@ displaywp
+msgctxt "pagination"
+msgid "&larr;"
+msgstr ""
+
+#: functions.php:2245
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "Contact us"
+msgstr ""
+
+#: functions.php:2246
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "it is all about us"
+msgstr ""
+
+#: functions.php:2247
+#: functions.php:2248
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "Drop us a line"
+msgstr ""
+
+#: functions.php:2280
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "Address"
+msgstr ""
+
+#: functions.php:2285
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "Mail"
+msgstr ""
+
+#: functions.php:2290
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "Phone"
+msgstr ""
+
+#: functions.php:2300
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "Name"
+msgstr ""
+
+#: functions.php:2301
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "E-mail"
+msgstr ""
+
+#: functions.php:2304
+#@ displaywp
+msgctxt "contact shortcode"
+msgid "Message"
+msgstr ""
+
+#: header.php:36
+#@ displaywp
+msgctxt "category"
+msgid "Category: "
+msgstr ""
+
+#: header.php:39
+#@ displaywp
+msgctxt "tag"
+msgid "Tag: "
+msgstr ""
+
+#: header.php:42
+#: header.php:45
+#: header.php:48
+#: header.php:51
+#@ displaywp
+msgctxt "archive"
+msgid "Archive: "
+msgstr ""
+
+#: header.php:56
+#@ displaywp
+msgctxt "search"
+msgid "Search: "
+msgstr ""
+
+#: header.php:77
+#: searchform.php:3
+#@ displaywp
+msgctxt "search form"
+msgid "Search ..."
+msgstr ""
+
+#: index.php:20
+#@ displaywp
+msgctxt "sticky post"
+msgid "FEATURED"
+msgstr ""
+
+#: index.php:28
+#: page.php:20
+#: single.php:19
+#@ displaywp
+msgctxt "blog"
+msgid "Date:"
+msgstr ""
+
+#: index.php:29
+#: page.php:21
+#: single.php:20
+#@ displaywp
+msgctxt "blog"
+msgid "Author:"
+msgstr ""
+
+#: index.php:30
+#: page.php:22
+#: single.php:21
+#@ displaywp
+msgctxt "blog"
+msgid "Comments:"
+msgstr ""
+
+#: index.php:31
+#: page.php:23
+#: single.php:22
+#@ blog
+msgid "Tags:"
+msgstr ""
+
+#: index.php:32
+#: page.php:24
+#: single.php:23
+#@ blog
+msgid "Categories:"
+msgstr ""
+
+#: index.php:38
+#@ displaywp
+msgctxt "blog"
+msgid "read more"
+msgstr ""
+
+#: index.php:47
+#@ displaywp
+msgctxt "search - no results"
+msgid "No results. Try searching again."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: lib/tgm-plugin-activation/register-plugins.php:79
+#@ displaywp
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: lib/tgm-plugin-activation/register-plugins.php:80
+#@ displaywp
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: lib/tgm-plugin-activation/register-plugins.php:81
+#, php-format
+#@ displaywp
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+#@ displaywp
+msgid "Something went wrong."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#: lib/tgm-plugin-activation/register-plugins.php:83
+#, php-format
+#@ displaywp
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: lib/tgm-plugin-activation/register-plugins.php:84
+#, php-format
+#@ displaywp
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#: lib/tgm-plugin-activation/register-plugins.php:85
+#, php-format
+#@ displaywp
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: lib/tgm-plugin-activation/register-plugins.php:86
+#, php-format
+#@ displaywp
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: lib/tgm-plugin-activation/register-plugins.php:87
+#, php-format
+#@ displaywp
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#: lib/tgm-plugin-activation/register-plugins.php:88
+#, php-format
+#@ displaywp
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+#: lib/tgm-plugin-activation/register-plugins.php:89
+#, php-format
+#@ displaywp
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:175
+#: lib/tgm-plugin-activation/register-plugins.php:90
+#, php-format
+#@ displaywp
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:176
+#: lib/tgm-plugin-activation/register-plugins.php:91
+#@ displaywp
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:177
+#: lib/tgm-plugin-activation/register-plugins.php:92
+#@ displaywp
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: lib/tgm-plugin-activation/register-plugins.php:93
+#@ displaywp
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: lib/tgm-plugin-activation/register-plugins.php:94
+#@ displaywp
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+#@ displaywp
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+#@ displaywp
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+#@ displaywp
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+#@ displaywp
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+#@ displaywp
+msgid "External Link"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+#@ displaywp
+msgid "Private Repository"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+#@ displaywp
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+#@ displaywp
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+#@ displaywp
+msgid "Required"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+#@ displaywp
+msgid "Recommended"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+#@ displaywp
+msgid "Not Installed"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+#@ displaywp
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ displaywp
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+#@ displaywp
+msgid "Plugin"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+#@ displaywp
+msgid "Source"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+#@ displaywp
+msgid "Type"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+#@ displaywp
+msgid "Status"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+#@ displaywp
+msgid "Install"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+#@ displaywp
+msgid "Activate"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+#@ displaywp
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+#@ displaywp
+msgid "Install package not available."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ displaywp
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+#@ displaywp
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+#@ displaywp
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+#@ displaywp
+msgid "Plugin install failed."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+#@ displaywp
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+#@ displaywp
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+#@ displaywp
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ displaywp
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#@ displaywp
+msgid "Show Details"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#@ displaywp
+msgid "Hide Details"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+#@ displaywp
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ displaywp
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#@ displaywp
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ displaywp
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ displaywp
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ displaywp
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+#@ displaywp
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ displaywp
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm-plugin-activation/register-plugins.php:82
+#@ displaywp
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/tgm-plugin-activation/register-plugins.php:95
+#, php-format
+#@ displaywp
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: templates_displaywp/contact.php:22
+#@ displaywp
+msgctxt "contact template"
+msgid "drop us a <span>line</span>"
+msgstr ""
+
+#: templates_displaywp/contact.php:25
+#@ displaywp
+msgctxt "contact template"
+msgid "Name"
+msgstr ""
+
+#: templates_displaywp/contact.php:26
+#@ displaywp
+msgctxt "contact template"
+msgid "Enter your name"
+msgstr ""
+
+#: templates_displaywp/contact.php:27
+#@ displaywp
+msgctxt "contact template"
+msgid "E-mail"
+msgstr ""
+
+#: templates_displaywp/contact.php:28
+#@ displaywp
+msgctxt "contact template"
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: templates_displaywp/contact.php:29
+#@ displaywp
+msgctxt "contact template"
+msgid "Website"
+msgstr ""
+
+#: templates_displaywp/contact.php:30
+#@ displaywp
+msgctxt "contact template"
+msgid "Enter website address"
+msgstr ""
+
+#: templates_displaywp/contact.php:31
+#@ displaywp
+msgctxt "contact template"
+msgid "Comment"
+msgstr ""
+
+#: templates_displaywp/contact.php:33
+#@ displaywp
+msgctxt "contact template"
+msgid "Drop us a line"
+msgstr ""
+
+#: templates_displaywp/contact.php:37
+#@ displaywp
+msgctxt "contact template"
+msgid "contact <span>info"
+msgstr ""
+
+#: tesla_framework/core/tesla_slider.php:1238
+#: tesla_framework/core/tesla_slider.php:1251
+#@ tesla
+msgctxt "portfolio category order"
+msgid "Order"
+msgstr ""
+
+#: tesla_framework/core/tesla_slider.php:1240
+#: tesla_framework/core/tesla_slider.php:1254
+#@ tesla
+msgctxt "portfolio category order"
+msgid "Set the order in which the categories should be displayed."
+msgstr ""
+
+#: tesla_framework/core/tesla_slider.php:1271
+#@ tesla
+msgctxt "portfolio category order column"
+msgid "Order"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:73
+#@ displaywp
+msgid "Subscribed"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:75
+#@ displaywp
+msgid "Error"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:79
+#@ displaywp
+msgid "MailChimp Error"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:86
+#@ displaywp
+msgid "No data received"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:117
+#@ displaywp
+msgid "No API key for mailchimp"
+msgstr ""
+
+#: tesla_framework/core/tt_subscription.php:131
+#@ default
+msgid "Not a valid mailchimp api key."
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#@ tax-meta
+msgid "Delete this image"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:882
+#@ tax-meta
+msgid "Delete"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:357
+#@ tax-meta
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:629
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:420
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:459
+#: tesla_framework/views/admin.php:135
+#@ tax-meta
+#@ mmb
+#@ TeslaFramework
+msgid "Remove"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:595
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:432
+#@ tax-meta
+#@ mmb
+msgid "Add"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:878
+#@ tax-meta
+msgid "Uploaded files"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:889
+#@ tax-meta
+msgid "Upload new files"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:895
+#@ tax-meta
+msgid "Add more files"
+msgstr ""
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:947
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:786
+#@ tax-meta
+#@ apc
+msgid "Select a color"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:145
+#: tesla_framework/extensions/autoimport/autoimporter.php:153
+#: tesla_framework/extensions/autoimport/autoimporter.php:235
+#: tesla_framework/extensions/autoimport/autoimporter.php:239
+#: tesla_framework/extensions/autoimport/autoimporter.php:248
+#@ displaywp
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:146
+#@ displaywp
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:240
+#, php-format
+#@ displaywp
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:256
+#, php-format
+#@ displaywp
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:280
+#, php-format
+#@ displaywp
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:340
+#, php-format
+#@ displaywp
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:391
+#, php-format
+#@ displaywp
+msgid "Failed to import category %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:431
+#, php-format
+#@ displaywp
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:477
+#: tesla_framework/extensions/autoimport/autoimporter.php:618
+#, php-format
+#@ displaywp
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:503
+#, php-format
+#@ displaywp
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:525
+#, php-format
+#@ displaywp
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:584
+#, php-format
+#@ displaywp
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:749
+#@ displaywp
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:756
+#, php-format
+#@ displaywp
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:819
+#@ displaywp
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:832
+#@ displaywp
+msgid "Invalid file type"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:876
+#@ displaywp
+msgid "Remote server did not respond"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:882
+#, php-format
+#@ displaywp
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:889
+#@ displaywp
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:894
+#@ displaywp
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:900
+#, php-format
+#@ displaywp
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/parsers.php:43
+#: tesla_framework/extensions/autoimport/parsers.php:75
+#: tesla_framework/extensions/autoimport/parsers.php:83
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/parsers.php:44
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: tesla_framework/extensions/autoimport/parsers.php:87
+#: tesla_framework/extensions/autoimport/parsers.php:92
+#: tesla_framework/extensions/autoimport/parsers.php:283
+#: tesla_framework/extensions/autoimport/parsers.php:473
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1819
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1827
+#@ default
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: tesla_framework/views/admin.php:21
+#@ TeslaFramework
+msgid "Documentation"
+msgstr ""
+
+#: tesla_framework/views/admin.php:24
+#@ TeslaFramework
+msgid "Support"
+msgstr ""
+
+#: tesla_framework/views/admin.php:27
+#@ TeslaFramework
+msgid "Latest News"
+msgstr ""
+
+#: tesla_framework/views/admin.php:32
+#@ TeslaFramework
+msgid "Framework "
+msgstr ""
+
+#: tesla_framework/views/admin.php:51
+#: tesla_framework/views/admin.php:79
+#: tesla_framework/views/admin.php:113
+#: tesla_framework/views/admin.php:155
+#: tesla_framework/views/options/button.php:5
+#: tesla_framework/views/options/image_upload.php:13
+#, php-format
+#@ displaywp
+msgid "%s"
+msgstr ""
+
+#: tesla_framework/views/admin.php:153
+#@ TeslaFramework
+msgid "Save Changes"
+msgstr ""
+
+#: tesla_framework/views/options/image_upload.php:15
+#@ displaywp
+msgid "Upload Image"
+msgstr ""
+
+#: tesla_framework/views/options/image_upload.php:17
+#@ displaywp
+msgid "Remove Image"
+msgstr ""
+
+#: tesla_framework/views/options/image_upload.php:19
+#@ displaywp
+msgid "Preview"
+msgstr ""
+
+#: tesla_framework/views/options/text.php:42
+#@ displaywp
+msgid "Text Logo Preview"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:17
+#@ displaywp
+msgctxt "single project page"
+msgid "prev"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:18
+#@ displaywp
+msgctxt "single project page"
+msgid "next"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:22
+#@ displaywp
+msgctxt "single project page"
+msgid "Author"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:23
+#@ displaywp
+msgctxt "single project page"
+msgid "Date"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:24
+#@ displaywp
+msgctxt "single project page"
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: theme_config/views/portfolio_single_view.php:29
+#@ displaywp
+msgctxt "single project page"
+msgid "Share"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:41
+#@ displaywp
+msgctxt "single project page"
+msgid "<span>Related</span> projects"
+msgstr ""
+
+#: widgets/widget-banner.php:10
+#: widgets/widget-newsletter.php:10
+#: widgets/widget-social-icons.php:10
+#@ displaywp
+msgid "Displays an image with a link"
+msgstr ""
+
+#: widgets/widget-banner.php:55
+#: widgets/widget-menu.php:57
+#: widgets/widget-newsletter.php:55
+#: widgets/widget-recent-posts.php:81
+#: widgets/widget-social-icons.php:64
+#: widgets/widget-tabs.php:109
+#: widgets/widget-twitter.php:48
+#@ displaywp
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-banner.php:68
+#@ displaywp
+msgid "URL:"
+msgstr ""
+
+#: widgets/widget-banner.php:71
+#@ displaywp
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: widgets/widget-menu.php:10
+#@ displaywp
+msgid "Displays a menu"
+msgstr ""
+
+#: widgets/widget-menu.php:52
+#, php-format
+#@ displaywp
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: widgets/widget-menu.php:61
+#@ displaywp
+msgid "Select Menu:"
+msgstr ""
+
+#: widgets/widget-newsletter.php:30
+#@ displaywp
+msgid "E-mail address"
+msgstr ""
+
+#: widgets/widget-newsletter.php:31
+#@ displaywp
+msgid "subscribe"
+msgstr ""
+
+#: widgets/widget-newsletter.php:59
+#@ displaywp
+msgid "Description:"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:10
+#@ displaywp
+msgid "Display a list of recent posts"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:90
+#: widgets/widget-tabs.php:125
+#@ displaywp
+msgid "Max. nr of posts:"
+msgstr ""
+
+#: widgets/widget-tabs.php:10
+#@ displaywp
+msgid "Tabs with the latest post from specified categories"
+msgstr ""
+
+#: widgets/widget-twitter.php:10
+#@ displaywp
+msgid "Display latest tweets"
+msgstr ""
+
+#: widgets/widget-twitter.php:51
+#@ displaywp
+msgid "Twitter user:"
+msgstr ""
+
+#: widgets/widget-twitter.php:55
+#@ displaywp
+msgid "Number of tweets to show:"
+msgstr ""
+

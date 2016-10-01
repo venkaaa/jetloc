@@ -1,0 +1,75 @@
+.cc{
+	padding: 0;
+	margin: 0 0 15px;
+	text-align: right;
+}
+.cc li{
+	display: inline-block;
+	margin-left: 10px;
+	padding: 4px 0;
+}
+.cc-icon{
+	display: block;
+	width: 51px;
+	height: 32px;
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+ */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+    -webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
+    -webkit-backface-visibility: hidden; /* Fix for transition flickering */
+}
+.cc-icon:hover{
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+    -webkit-filter: grayscale(0%);
+}
+.cc-2checkout{
+	background: url(../payment-icon-set/icons/2checkout-curved-32px.png)
+}
+.cc-american-express{
+	background: url(../payment-icon-set/icons/american-express-curved-32px.png)
+}
+.cc-cirrus{
+	background: url(../payment-icon-set/icons/cirrus-curved-32px.png)
+}
+.cc-delta{
+	background: url(../payment-icon-set/icons/delta-curved-32px.png)
+}
+.cc-direct{
+	background: url(../payment-icon-set/icons/direct-debit-curved-32px.png)
+}
+.cc-discover{
+	background: url(../payment-icon-set/icons/discover-curved-32px.png)
+}
+.cc-ebay{
+	background: url(../payment-icon-set/icons/ebay-curved-32px.png)
+}
+.cc-google-checkout{
+	background: url(../payment-icon-set/icons/google-checkout-curved-32px.png)
+}
+.cc-maestro{
+	background: url(../payment-icon-set/icons/maestro-curved-32px.png)
+}
+.cc-mastercard{
+	background: url(../payment-icon-set/icons/mastercard-curved-32px.png)
+}
+.cc-moneybookers{
+	background: url(../payment-icon-set/icons/moneybookers-curved-32px.png)
+}
+.cc-sagepay{
+	background: url(../payment-icon-set/icons/sagepay-curved-32px.png)
+}
+.cc-solo{
+	background: url(../payment-icon-set/icons/solo-curved-32px.png)
+}
+.cc-switch{
+	background: url(../payment-icon-set/icons/switch-curved-32px.png)
+}
+.cc-visa-electron{
+	background: url(../payment-icon-set/icons/visa-electron-curved-32px.png)
+}
+.cc-visa{
+	background: url(../payment-icon-set/icons/visa-curved-32px.png)
+}
+.cc-western-union{
+	background: url(../payment-icon-set/icons/western-union-curved-32px.png)
+}

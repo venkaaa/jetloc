@@ -1,0 +1,12 @@
+.displaywp_widget_banner{
+
+}
+.displaywp_widget_banner img{
+	max-width: 100%;
+}
+.displaywp_widget_tabs>p:last-child{
+	display: none;
+}
+.displaywp_widget_tabs>p>select{
+	margin-bottom: 5px;
+}

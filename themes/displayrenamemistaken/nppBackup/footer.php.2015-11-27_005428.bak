@@ -1,0 +1,70 @@
+    <!-- =====================================================================
+                                     START FOOTER
+    ====================================================================== -->
+    <div class="footer">
+      
+
+<div class="container">
+       <div class="footer_top wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+        <div class="row">
+            <div class="col-md-3 footer_grid">
+                
+                <ul class="list">
+                    <li><a href="http://jetrelocations.com/house-hold-goods-shifting/"> House hold goods shifting</a></li>
+                    <li><a href="http://jetrelocations.com/office-shifting-and-corporate-shifting/"> Office Shifting/ Corporate Shifting</a></li>
+                    <li><a href="http://jetrelocations.com/car-transportation/"> Car Transportation</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 footer_grid">
+                
+                <ul class="list">
+                    <li><a href="http://jetrelocations.com/bike-transportation/"> Bike Transportation</a></li>
+                    <li><a href="http://jetrelocations.com/loading-and-unloading/"> Loading and Unloading</a></li>
+                    <li><a href="http://jetrelocations.com/warehousing-and-storage/">  Warehousing and Storage.</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 footer_grid">
+                
+                <ul class="list">
+                    <li><a href="http://jetrelocations.com/door-to-door-delivery/">  Door to Door Delivery</a></li>
+                    <li><a href="http://jetrelocations.com/electronic-items-shifting/"> Electronic Items Shifting</a></li>
+                    <li><a href="http://jetrelocations.com/machinery-shifting/"> Machinery Shifting</a></li>
+                </ul>
+            </div>
+			
+			<div class="col-md-3 footer_grid">
+                
+                <ul class="list">
+                    <li><a href="http://jetrelocations.com/about-us/"> About us</a></li>
+                    <li><a href="http://jetrelocations.com/services/"> Services </a></li>
+                    <li><a href="http://jetrelocations.com/contacts/"> Contact us </a></li>
+                </ul>
+            </div>
+           
+        </div>
+        </div>
+        <div class="footer_bottom">
+          <div class="copy" >
+            <p>copyright@2011<!-- ©2014 --> <a href="#" target="_blank"> Jet Relocations</a></p>
+          </div>
+          <div class="clearfix"> </div>
+        </div>
+     </div>
+
+
+
+        <!-- end -->
+    </div>
+    <!-- =====================================================================
+                                     END FOOTER
+    ====================================================================== -->
+    
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <?php wp_footer(); ?>
+
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+[22-Mar-2015 15:35:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function shortcode_atts() in /home/jetreloc/public_html/wp-content/themes/123medicine/wpbakery/js_composer/composer/shortcodes_templates/vc_pie.php on line 3

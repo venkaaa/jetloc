@@ -1,0 +1,341 @@
+/* bootstrap */
+a {
+  color: #fba525;
+}
+.nav a:hover .caret {
+  border-top-color: #fba525;
+  border-bottom-color: #fba525;
+}
+.navbar-nav > li > a:hover{
+  color: #fba525;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #fba525;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  background-color: #fba525;
+}
+.navbar-toggle .icon-bar{
+	background-color: #fba525;
+}
+
+.navbar .nav > li > .dropdown-menu:after {
+  border-bottom: 10px solid #fba525;
+}
+.dropdown-menu {
+  border: 5px solid #fba525;
+}
+.btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary.active[disabled], fieldset[disabled] .btn-primary.active{
+	background-color: #95b558;
+	border-color: #95b558;
+}
+
+@media (min-width: 768px) {
+
+	.dropdown-menu > li > a:hover,
+	.dropdown-menu > li > a:focus {
+	  background-color: #fba525;
+	}
+	.dropdown-menu > .active > a,
+	.dropdown-menu > .active > a:hover,
+	.dropdown-menu > .active > a:focus {
+	  background-color: #fba525;
+	}
+}
+
+.btn-primary {
+  background-color: #fba525;
+  border-color: #fba525;
+}
+
+/* application */
+
+.thumb-menu-item a:hover img{
+	border-color: #95b558;
+}
+.thumb-menu-item a:hover h5{
+	color: #95b558;
+}
+.header-middle a {
+  color: #95b558;
+}
+.header-middle .wpml-switcher a:hover,
+.left-header li a:hover,
+.right-header li a:hover{
+  color: #95b558
+}
+.lpd_breadcrumb a,
+.lpd_breadcrumb .current{
+  color: #95b558;
+}
+/*.cart-dropdown{
+	border-color: #fba525;
+}
+.cart-dropdown:after{
+	border-bottom-color: #fba525;
+}*/
+
+@media (min-width: 768px) {
+	section .dropdown-submenu.active > a,
+	section .dropdown-submenu:hover > a{
+	  background-color: #fba525;
+	}
+}
+.dropdown-menu section li a:focus,
+.dropdown-menu section li a:hover {
+  background-color: #fba525;
+}
+.view_cart-btn .halflings:before,
+.header-search .btn .halflings:before{
+	color: #95b558;
+}
+.view_cart-btn,
+.header-search .btn{
+	border: 1px solid #95b558;
+}
+.view_cart-btn:hover .halflings:before,
+.header-search .btn:hover .halflings:before{
+	color: #fba525;
+}
+.view_cart-btn:hover,
+.header-search .btn:hover{
+	border: 1px solid #fba525;
+}
+.right-header li a:hover{
+	color: #95b558;
+}
+#logo h5{
+	color: #fba525;
+}
+.single-post-meta a:hover .halflings:before,
+.blog-post-meta a:hover .halflings:before,
+.single-post-meta a:hover,
+.blog-post-meta a:hover{
+	color: #fba525;
+}
+
+
+
+#footer-bottom a{
+	color: #95b558;
+}
+#footer-bottom .footer-menu li a:hover{
+	color: #95b558;
+}
+.widget.widget_pages ul li a:hover:before,
+.widget.widget_nav_menu ul li a:hover:before,
+.widget.widget_login ul li a:hover:before,
+.widget.widget_meta ul li a:hover:before,
+.widget.widget_categories ul li a:hover:before,
+.widget.widget_archive ul li a:hover:before,
+.widget.widget_recent_comments ul li a:hover:before,
+.widget.widget_recent_entries ul li a:hover:before,
+.widget.widget_rss ul li a:hover,
+.widget.widget_pages ul li a:hover,
+.widget.widget_nav_menu ul li a:hover,
+.widget.widget_login ul li a:hover,
+.widget.widget_meta ul li a:hover,
+.widget.widget_categories ul li a:hover,
+.widget.widget_archive ul li a:hover,
+.widget.widget_recent_comments ul li a:hover,
+.widget.widget_recent_entries ul li a:hover{
+	color: #fba525;
+}
+
+.footer .widget.widget_pages ul li a:hover:before,
+.footer .widget.widget_nav_menu ul li a:hover:before,
+.footer .widget.widget_login ul li a:hover:before,
+.footer .widget.widget_meta ul li a:hover:before,
+.footer .widget.widget_categories ul li a:hover:before,
+.footer .widget.widget_archive ul li a:hover:before,
+.footer .widget.widget_recent_comments ul li a:hover:before,
+.footer .widget.widget_recent_entries ul li a:hover:before,
+.footer .widget.widget_rss ul li a:hover,
+.footer .widget.widget_pages ul li a:hover,
+.footer .widget.widget_nav_menu ul li a:hover,
+.footer .widget.widget_login ul li a:hover,
+.footer .widget.widget_meta ul li a:hover,
+.footer .widget.widget_categories ul li a:hover,
+.footer .widget.widget_archive ul li a:hover,
+.footer .widget.widget_recent_comments ul li a:hover,
+.footer .widget.widget_recent_entries ul li a:hover{
+	color: #95b558;
+}
+
+.tagcloud a:hover,
+.tags a:hover{
+	border-color: #fba525;
+	background-color: #fba525;
+}
+
+.footer .tagcloud a:hover,
+.footer .tags a:hover{
+	border-color: #95b558;
+	background-color: #95b558;
+}
+
+/* Multi Purpose Media Boxes */
+
+.box:hover .box-caption .box-title{
+  color: #fba525;
+}
+.category-navbar li.select a{
+  background-color: #fba525;
+}
+.category-navbar li a:hover{
+  background-color: #95b558;
+}
+.hover-lightbox, .hover-url, .hover-iframe{
+  background-color: #fba525;
+}
+
+
+/* shoprcodes */
+.dropcap{
+	background: #fba525;
+}
+.dropcap1{
+	background: #95b558;
+}
+
+
+/* elements */
+.mega-icon{
+	background-color: #fba525; 
+}
+.mega-icon:hover{
+	background-color: #95b558; 
+}
+.lpd-portfolio-item .title a:hover,
+.lpd-portfolio-item .portfolio-categories a:hover,
+.lpd-portfolio-item .news-meta a:hover,
+.lpd-portfolio-item .news-meta a:hover .halflings:before{
+	color: #fba525;
+}
+.lpd-portfolio-item:hover{
+    border-color: #95b558;
+}
+.meta-block:hover{
+    border-color: #95b558;
+}
+.meta-block:hover .sep-border{
+	background: #95b558;
+}
+.iconitem:hover .glyphicons:before{
+	color: #fba525;
+}
+.iconitem:hover .content{
+	border-color: #fba525;
+}
+blockquote:hover{
+	color: #95b558;
+	border-color: #95b558;
+}
+.callout:hover{
+	border-color: #95b558;
+}
+.callout:hover .sep-border{
+	background: #95b558;
+}
+.vc_lpd_testiomonial:hover .testiomonial_content{
+	color: #95b558;
+	border-color: #95b558;
+}
+.vc_lpd_testiomonial:hover .testiomonial_content:before{
+	border-top-color: #95b558
+}
+
+
+/* woocommerece */
+.product-category a:hover{
+	border-color: #95b558;
+}
+ul.lpd-products li.product.product-category:hover .product-category-title{
+	background-color: #95b558;
+}
+.wordpress-123medicine .woocommerce .woocommerce-breadcrumb a:hover,
+.wordpress-123medicine.woocommerce-page .woocommerce-breadcrumb a:hover{
+	color: #fba525;
+}
+ul.lpd-products li.product:hover .item-navigation a{
+	color: #95b558;
+}
+ul.lpd-products li.product .item-navigation a:hover{
+	color: #fba525;
+}
+ul.lpd-products li.product:hover h3{
+	color: #95b558;
+}
+ul.lpd-products li.product:hover .product-item-wrap {
+	border: 1px solid #95b558;
+}
+.wordpress-123medicine .woocommerce .star-rating span:before,
+.wordpress-123medicine.woocommerce-page .star-rating span:before,
+.wordpress-123medicine .woocommerce .star-rating:before,
+.wordpress-123medicine.woocommerce-page .star-rating:before{
+	color: #fba525;
+}
+.wordpress-123medicine.woocommerce-page .quantity .plus:hover,
+.wordpress-123medicine.woocommerce-page .quantity .minus:hover{
+	color: #95b558;
+    border-color: #95b558;
+}
+.wordpress-123medicine.woocommerce-page div.product form.cart .group_table td.label a:hover{
+	color: #fba525;
+}
+.wordpress-123medicine.woocommerce-page div.product div.images .thumbnails a:hover img{
+    border-color: #95b558;
+}
+.wordpress-123medicine.woocommerce-page .woocommerce-tabs #reviews #comments ol.commentlist li:hover img.avatar{
+    border-color: #95b558;
+}
+.wordpress-123medicine .woocommerce table.cart a.remove:hover, .wordpress-123medicine.woocommerce-page table.cart a.remove:hover{
+	background-color: #95b558;
+}
+.wordpress-123medicine.woocommerce-page form.login:hover, .wordpress-123medicine.woocommerce-page form.checkout_coupon:hover, .wordpress-123medicine.woocommerce-page form.register:hover{
+	border-color: #95b558;
+}
+#checkout-accordion .accordion-group:hover{
+	border-color: #95b558;
+}
+.wordpress-123medicine .woocommerce ul.cart_list li a:hover,
+.wordpress-123medicine.woocommerce-page ul.cart_list li a:hover,
+.wordpress-123medicine .woocommerce ul.product_list_widget li a:hover,
+.wordpress-123medicine.woocommerce-page ul.product_list_widget li a:hover{
+	color: #fba525;
+}
+.wordpress-123medicine .woocommerce ul.cart_list li a:hover img,
+.wordpress-123medicine.woocommerce-page ul.cart_list li a:hover img,
+.wordpress-123medicine .woocommerce ul.product_list_widget li a:hover img,
+.wordpress-123medicine.woocommerce-page ul.product_list_widget li a:hover img{
+	border-color: #fba525;
+}
+.wordpress-123medicine .footer .woocommerce ul.cart_list li a:hover,
+.wordpress-123medicine.woocommerce-page .footer ul.cart_list li a:hover,
+.wordpress-123medicine .footer .woocommerce ul.product_list_widget li a:hover,
+.wordpress-123medicine.woocommerce-page .footer ul.product_list_widget li a:hover{
+	color: #95b558;
+}
+.wordpress-123medicine .footer .woocommerce ul.cart_list li a:hover img,
+.wordpress-123medicine.woocommerce-page .footer ul.cart_list li a:hover img,
+.wordpress-123medicine .footer .woocommerce ul.product_list_widget li a:hover img,
+.wordpress-123medicine.woocommerce-page .footer ul.product_list_widget li a:hover img{
+	border-color: #95b558;
+}
+.widget_product_categories ul li a:hover{
+	color: #fba525;
+}
+.woocommerce .widget_layered_nav ul li a:hover,
+.woocommerce-page .widget_layered_nav ul li a:hover{
+	color: #fba525;
+}
+.footer .widget_product_categories ul li a:hover{
+	color: #95b558;
+}
+.woocommerce .footer .widget_layered_nav ul li a:hover,
+.woocommerce-page .footer .widget_layered_nav ul li a:hover{
+	color: #95b558;
+}

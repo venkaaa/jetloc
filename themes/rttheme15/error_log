@@ -1,0 +1,1 @@
+[22-Mar-2015 15:36:02 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_front_page() in /home/jetreloc/public_html/wp-content/themes/rttheme15/sub_page_header.php on line 1

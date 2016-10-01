@@ -1,0 +1,1 @@
+[22-Mar-2015 15:35:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/jetreloc/public_html/wp-content/themes/u-design/widgets/subpages-widget.php on line 13
